@@ -1,0 +1,10 @@
+1 . What are the total no of Confirmed cases in different nations?
+2 . What are the total no of Recovered cases in different nations?
+3 . What are the total no of Confirmed cases in India by states?
+4 . What are the total no of Recovered cases in India by states?
+5 . Can we Forecast Trend-Line for COVID-19?
+6 . Can we Group Indian states and find COVID-19 hits?
+7 . Find the Highest Death rates in International Level?
+8 . Find the Least Death rates?
+9 . Can we find the variation in COVID-19 cases around the World?
+10 . Can we forecast sheet for future reference
