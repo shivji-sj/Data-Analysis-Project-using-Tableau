@@ -1,0 +1,15 @@
+
+About Dataset
+Content
+It has all the name of the Athletes who won medals for India in Common Wealth Games 2022.
+
+Content
+Date of Medal Won : Date on which the medal was won
+Athlete : Name of all the Athletes
+Medal : Medal won by the Athletes
+Event : Event in which they participated
+Sport : Name of the sport in which they took part
+
+Acknowledgement
+Data Source : Olympic.com
+Methodology : Data scrapping
