@@ -1,0 +1,10 @@
+dataset link : https://www.kaggle.com/datasets/devrimtuner/list-of-mostfollowed-tiktok-accounts
+
+
+About Dataset
+This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
+
+
+
+Khaby Lame is the most-followed account on TikTok.
+This list contains the top 50 accounts with the largest number of followers on the Chinese social media platform TikTok, which was merged with musical.ly in 2018.[1] The most-followed individual on the platform is Khaby Lame, with over 153 million followers. He surpassed the previous most-followed account, Charli D'Amelio, on 22 June 2022.[2]
